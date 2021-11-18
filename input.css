@@ -1,0 +1,54 @@
+.box1 {
+  background-color: rgb(149, 187, 220);
+  width: 550px;
+  height: 450px;
+  padding-top: 25px;
+}
+
+.box2 {
+  background-color: rgb(125, 184, 179);
+  width: 450px;
+  height: 200px;
+  margin-left: 20px;
+  font-style: italic;
+}
+
+.box3 {
+  background-color: rgb(210, 176, 89);
+  width: 300px;
+  height: 250px;
+  margin: 50px;
+  padding-top: 10px;
+}
+
+.box4 {
+  background-color: blue;
+  width: 190px;
+  height: 140px;
+  margin-left: 15px;
+  font-style: italic;
+}
+
+.box5 {
+  background-color: rgb(184, 180, 180);
+  width: 680px;
+  height: 500px;
+  padding-top: 25px;
+  margin-bottom: 50px;
+}
+
+.box6 {
+  background-color: rgb(215, 205, 90);
+  width: 450px;
+  height: 300px;
+  font-size: 40px;
+  margin-left: 30px;
+  padding-left: 20px;
+  word-spacing: 12px;
+}
+
+.say-tag {
+  font-size: 40px;
+  margin-left: 35px;
+  word-spacing: 12px;
+}
